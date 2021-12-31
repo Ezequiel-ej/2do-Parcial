@@ -1,0 +1,59 @@
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\bin\Release\Segundo Parcial.exe.config
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\bin\Release\Segundo Parcial.exe
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\bin\Release\Segundo Parcial.pdb
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo_Parcial.Form1.resources
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo_Parcial.Properties.Resources.resources
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo Parcial.csproj.GenerateResource.cache
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo Parcial.csproj.CoreCompileInputs.cache
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo Parcial.exe
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo Parcial.pdb
+D:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\bin\Release\Segundo Parcial.exe.config
+D:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\bin\Release\Segundo Parcial.exe
+D:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\bin\Release\Segundo Parcial.pdb
+D:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo_Parcial.Form1.resources
+D:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo_Parcial.Properties.Resources.resources
+D:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo Parcial.csproj.GenerateResource.cache
+D:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo Parcial.csproj.CoreCompileInputs.cache
+D:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo Parcial.exe
+D:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo Parcial.pdb
+J:\UAI\4to cuat\poo\2do parcial\Segundo Parcial\obj\Release\Segundo Parcial.csprojAssemblyReference.cache
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\bin\Release\Segundo Parcial.exe.config
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\bin\Release\Segundo Parcial.exe
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\bin\Release\Segundo Parcial.pdb
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.csprojAssemblyReference.cache
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo_Parcial.Form1.resources
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo_Parcial.Properties.Resources.resources
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.csproj.GenerateResource.cache
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.csproj.CoreCompileInputs.cache
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.exe
+J:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.pdb
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\bin\Release\Segundo Parcial.exe.config
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\bin\Release\Segundo Parcial.exe
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\bin\Release\Segundo Parcial.pdb
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.csprojAssemblyReference.cache
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo_Parcial.Form1.resources
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo_Parcial.Properties.Resources.resources
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.csproj.GenerateResource.cache
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.csproj.CoreCompileInputs.cache
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.exe
+Z:\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.pdb
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\bin\Release\Segundo Parcial.exe.config
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\bin\Release\Segundo Parcial.exe
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\bin\Release\Segundo Parcial.pdb
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.csproj.AssemblyReference.cache
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo_Parcial.Form1.resources
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo_Parcial.Properties.Resources.resources
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.csproj.GenerateResource.cache
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.csproj.CoreCompileInputs.cache
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.exe
+C:\UAI\4to cuat\poo\2do parcial\Giammaria_POO_2P mod\Segundo Parcial\obj\Release\Segundo Parcial.pdb
+C:\github2\Segundo Parcial\bin\Release\Segundo Parcial.exe.config
+C:\github2\Segundo Parcial\bin\Release\Segundo Parcial.exe
+C:\github2\Segundo Parcial\bin\Release\Segundo Parcial.pdb
+C:\github2\Segundo Parcial\obj\Release\Segundo Parcial.csproj.AssemblyReference.cache
+C:\github2\Segundo Parcial\obj\Release\Segundo_Parcial.Form1.resources
+C:\github2\Segundo Parcial\obj\Release\Segundo_Parcial.Properties.Resources.resources
+C:\github2\Segundo Parcial\obj\Release\Segundo Parcial.csproj.GenerateResource.cache
+C:\github2\Segundo Parcial\obj\Release\Segundo Parcial.csproj.CoreCompileInputs.cache
+C:\github2\Segundo Parcial\obj\Release\Segundo Parcial.exe
+C:\github2\Segundo Parcial\obj\Release\Segundo Parcial.pdb
